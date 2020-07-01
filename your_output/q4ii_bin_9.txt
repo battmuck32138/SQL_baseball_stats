@@ -1,0 +1,3 @@
+ERROR:  relation "q4ii" does not exist
+LINE 7:     FROM q4ii, max_salary WHERE binid = 9;
+                 ^
